@@ -4,7 +4,7 @@ from my_sample_package import __version__
 
 setup(
     name='my_sample_package',
-    version='1.1',
+    version=__version__,
 
     url='https://github.com/kianData/Kian_Sample_Package',
     author='Kian',
