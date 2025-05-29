@@ -9,6 +9,6 @@ setup(
     url='https://github.com/kianData/Kian-Sample-Package',
     author='Kian',
     author_email='kshvzn@gmail.com',
-
+    test_suite='tests',
     py_modules=['my_sample_package'],
 )
