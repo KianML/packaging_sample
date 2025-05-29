@@ -1,4 +1,4 @@
 __version__ = '1.1'
 
-def print_test():
+def print_msg():
     print("If you see this sample then package is working!")
