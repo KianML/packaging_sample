@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
-from my_sample_package import __version__
+from main import __version__
 
 setup(
-    name='my_sample_package',
+    name='main',
     version=__version__,
 
-    url='https://github.com/kianData/Kian_Sample_Package',
+    url='https://github.com/kianData/sample',
     author='Kian',
     author_email='kshvzn@gmail.com',
     test_suite='tests',
-    py_modules=['my_sample_package'],
+    py_modules=['main'],
 )
