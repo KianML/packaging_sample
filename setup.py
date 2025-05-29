@@ -10,5 +10,4 @@ setup(
     author='Kian',
     author_email='kshvzn@gmail.com',
     test_suite='tests',
-    py_modules=['main'],
 )
