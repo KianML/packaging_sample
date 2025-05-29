@@ -1,8 +1,7 @@
-from my_sample_package import print_test
+from main import print_msg
 
-
-def test_print_test(capsys):
-    print_test()
+def test_print_msg(capsys):
+    print_msg()
     captured = capsys.readouterr()
     assert captured.out == 'This is my pip package!\n'
     assert captured.err == ''
