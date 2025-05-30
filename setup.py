@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
-from main import __version__
+from sample_package_KianML import __version__
 
 setup(
-    name='main',
+    name='sample_package_KianML',
     version=__version__,
 
-    url='https://github.com/kianData/sample',
-    author='Kian',
+    url='https://github.com/KianML/packaging_sample',
+    author='Kianoosh Keshavarzian',
     author_email='kshvzn@gmail.com',
     test_suite='tests',
 )
