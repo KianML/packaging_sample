@@ -6,7 +6,7 @@ setup(
     name='sample_package_KianML',
     version='1.0',
 
-    url='https://github.com/KianML/packaging_sample',
+    url='https://github.com/KianML/packaging_sample/src',
     author='Kianoosh Keshavarzian',
     author_email='kshvzn@gmail.com',
 )
