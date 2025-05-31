@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-from src.sample_package_KianML import __version__
+from 1.0.sample_package_KianML import __version__
 
 setup(
     name='sample_package_KianML',
