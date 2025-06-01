@@ -2,4 +2,4 @@
 
 This is a simple example package.
 
-Usage command line: "pip install git+https://github.com/KianML/packaging_sample#egg="
+Command line: "pip install git+https://github.com/KianML/packaging_sample#egg=sample_package_KianML"
