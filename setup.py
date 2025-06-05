@@ -9,5 +9,4 @@ setup(
     url='https://github.com/KianML/packaging_sample',
     author='Kianoosh Keshavarzian',
     author_email='kshvzn@gmail.com',
-    install_requires=['hopcroftkarp',],
 )
